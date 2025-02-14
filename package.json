@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^5.9.3",
+    "@tailwindcss/postcss": "^4.0.3",
+    "framer-motion": "^12.4.2",
     "next": "^15.0.0",
+    "postcss": "^8.5.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.0.3"
   }
 }
